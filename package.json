@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "analiza-sync": "^1.0.1"
+  },
+  "name": "test_week_8",
+  "version": "1.0.0",
+  "description": "\"# test-week-8\"",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haimvales/test-week-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/haimvales/test-week-8/issues"
+  },
+  "homepage": "https://github.com/haimvales/test-week-8#readme"
+}
